@@ -32,3 +32,8 @@ body {
     background: rgb(13, 19, 33);
     cursor: pointer;
 }
+
+main .middle {
+    max-width: 1140px;
+    margin: 130px auto;
+}
