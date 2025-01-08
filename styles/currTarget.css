@@ -20,13 +20,3 @@
 .curr-card:nth-child(3) {
     background-color: #FFDF000D;
 }
-
-.curr-card a {
-    color: rgb(13, 19, 33);
-    font-size: 16px;
-    font-weight: 700;
-    line-height: 19px;
-    letter-spacing: 0%;
-    text-align: left;
-    text-decoration-line: underline;
-}
