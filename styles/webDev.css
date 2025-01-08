@@ -4,30 +4,9 @@
     background: rgba(13, 19, 33, 0.02);
 }
 
-.web-dev-title {
-    color: rgb(13, 19, 33);
-    font-size: 32px;
-    font-weight: 800;
-    line-height: 37px;
-    letter-spacing: 0%;
-    text-align: center;
-}
-
-.web-dev-des {
-    color: rgb(13, 19, 33);
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 26px;
-    letter-spacing: 0%;
-    text-align: center;
-    opacity: 0.7;
-    margin-bottom: 48px;
-}
-
 .web-dev-card {
     background-color: #fff;
     display: flex;
-    /* justify-content: center; */
     margin: 32px 0;
     padding: 48px;
     gap: 100px;
