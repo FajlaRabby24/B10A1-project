@@ -1,0 +1,44 @@
+.support {
+    border-radius: 16px;
+    background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('../assets/handshake.jpg');
+    padding: 48px;
+    background-position: center center;
+}
+
+.support .input-container {
+    text-align: center;
+    margin: 0 auto;
+}
+
+.support .input-container input[type="text"] {
+    width: 500px;
+    box-sizing: border-box;
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    border-radius: 8px;
+    background: rgb(255, 255, 255);
+    padding: 19px 20px;
+    color: rgba(13, 19, 33, 0.4);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+}
+
+.support .input-container input[type="submit"] {
+    width: 120px;
+    color: rgb(13, 19, 33);
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 23px;
+    text-align: center;
+    box-sizing: border-box;
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    border-radius: 8px;
+    background: rgb(255, 255, 255);
+    padding: 17px 20px;
+    cursor: pointer;
+}
+
+.support .title,
+.des {
+    color: #fff;
+}
