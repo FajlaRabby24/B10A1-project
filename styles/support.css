@@ -1,6 +1,6 @@
 .support {
     border-radius: 16px;
-    background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('../assets/handshake.jpg');
+    background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.359), rgba(0, 0, 0, 0.371), rgba(0, 0, 0, 0.2)), url('../assets/handshake.jpg');
     padding: 48px;
     background-position: center center;
 }
